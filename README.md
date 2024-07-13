@@ -42,14 +42,8 @@ Here is the index of the 30 days, each focusing on a different topic:
 30. Day 30: [Topic for Day 30]
 
 ## Daily Progress
-
-### Day 1: Variables and Data Types
-- **[Day 1 Report Card](link-to-day-1-report)**
-
-### Day 2: [Topic for Day 2]
-- **[Day 2 Report Card](link-to-day-2-report)**
-
-[... Add links to each day's report card ...]
+You can Check Daily Progress by Visiting that Day folder . There you will get tasks.png ( which includes all the tasks ) and a Day.md where you can see that days tasks I 
+ did and complete Report card. 
 
 ## How to Use This Repository
 
